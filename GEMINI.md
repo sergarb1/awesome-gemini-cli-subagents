@@ -9,17 +9,7 @@ This is a curated collection of Gemini CLI subagent definitions - specialized AI
 ## Repository Structure
 
 ```
-categories/
-  01-core-development/     # Backend, frontend, fullstack, mobile, etc.
-  02-language-specialists/ # Language/framework experts (TypeScript, Python, etc.)
-  03-infrastructure/       # DevOps, cloud, Kubernetes, etc.
-  04-quality-security/     # Testing, security auditing, code review
-  05-data-ai/              # ML, data engineering, AI specialists
-  06-developer-experience/ # Tooling, documentation, DX optimization
-  07-specialized-domains/  # Blockchain, IoT, fintech, gaming
-  08-business-product/     # Product management, business analysis
-  09-meta-orchestration/   # Multi-agent coordination
-  10-research-analysis/    # Research and analysis specialists
+agents/                  # All subagent definitions (.md files)
 ```
 
 ## Subagent File Format
@@ -56,8 +46,7 @@ You are a [role description]...
 When adding a new agent, update these files:
 
 1. **Main README.md** - Add link in appropriate category (alphabetical order)
-2. **Category README.md** - Add detailed description, update Quick Selection Guide table
-3. **Agent .md file** - Create the actual agent definition
+2. **Agent .md file** - Create the actual agent definition
 
 Format for main README: `- [**agent-name**](path/to/agent.md) - Brief description`
 

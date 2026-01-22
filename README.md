@@ -102,6 +102,7 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**error-detective**](agents/error-detective.md) - Error analysis and resolution expert
 - [**penetration-tester**](agents/penetration-tester.md) - Ethical hacking specialist
 - [**performance-engineer**](agents/performance-engineer.md) - Performance optimization expert
+- [**performance-monitor**](agents/performance-monitor.md) - System-wide performance monitoring expert
 - [**powershell-security-hardening**](agents/powershell-security-hardening.md) - PowerShell security hardening specialist
 - [**qa-expert**](agents/qa-expert.md) - Test automation specialist
 - [**security-auditor**](agents/security-auditor.md) - Security vulnerability expert
@@ -143,6 +144,7 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**fintech-engineer**](agents/fintech-engineer.md) - Financial technology specialist
 - [**game-developer**](agents/game-developer.md) - Game development expert
 - [**iot-engineer**](agents/iot-engineer.md) - IoT systems developer
+- [**legal-advisor**](agents/legal-advisor.md) - Technology law and regulatory compliance expert
 - [**m365-admin**](agents/m365-admin.md) - Microsoft 365 administration specialist
 - [**mobile-app-developer**](agents/mobile-app-developer.md) - Mobile application specialist
 - [**payment-integration**](agents/payment-integration.md) - Payment systems expert
@@ -153,8 +155,11 @@ All agents are located in the [**agents/**](agents/) directory.
 
 ### Software Development Lifecycle (SDLC)
 - [**business-analyst**](agents/business-analyst.md) - Requirements specialist
+- [**content-marketer**](agents/content-marketer.md) - Content strategy and SEO optimization expert
+- [**customer-success-manager**](agents/customer-success-manager.md) - Customer retention and growth expert
 - [**product-manager**](agents/product-manager.md) - Product strategy expert
 - [**project-manager**](agents/project-manager.md) - Project management specialist
+- [**sales-engineer**](agents/sales-engineer.md) - Technical pre-sales and solution architecture expert
 - [**scrum-master**](agents/scrum-master.md) - Agile methodology expert
 - [**technical-writer**](agents/technical-writer.md) - Technical documentation specialist
 - [**ux-researcher**](agents/ux-researcher.md) - User research expert
@@ -164,10 +169,16 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**agent-organizer**](agents/agent-organizer.md) - Multi-agent coordinator
 - [**context-manager**](agents/context-manager.md) - Context optimization expert
 - [**error-coordinator**](agents/error-coordinator.md) - Error handling and recovery specialist
+- [**it-ops-orchestrator**](agents/it-ops-orchestrator.md) - IT operations meta-orchestrator
+- [**knowledge-synthesizer**](agents/knowledge-synthesizer.md) - Collective intelligence and knowledge management expert
 - [**multi-agent-coordinator**](agents/multi-agent-coordinator.md) - Advanced multi-agent orchestration
+- [**task-distributor**](agents/task-distributor.md) - Intelligent work allocation and load balancing expert
 - [**workflow-orchestrator**](agents/workflow-orchestrator.md) - Complex workflow automation
 
 ### Technical Research & Analysis
+- [**competitive-analyst**](agents/competitive-analyst.md) - Competitor intelligence and strategic analysis expert
+- [**data-researcher**](agents/data-researcher.md) - Data mining and pattern recognition specialist
+- [**market-researcher**](agents/market-researcher.md) - Market analysis and consumer insights specialist
 - [**research-analyst**](agents/research-analyst.md) - Comprehensive research specialist
 - [**search-specialist**](agents/search-specialist.md) - Advanced information retrieval expert
 - [**trend-analyst**](agents/trend-analyst.md) - Emerging trends and forecasting expert
