@@ -48,10 +48,6 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**websocket-engineer**](agents/websocket-engineer.md) - Real-time communication specialist
 
 ### Language Specialists
-- [**typescript-pro**](agents/typescript-pro.md) - TypeScript specialist
-- [**sql-pro**](agents/sql-pro.md) - Database query expert
-- [**swift-expert**](agents/swift-expert.md) - iOS and macOS specialist
-- [**vue-expert**](agents/vue-expert.md) - Vue 3 Composition API expert
 - [**angular-architect**](agents/angular-architect.md) - Angular 15+ enterprise patterns expert
 - [**cpp-pro**](agents/cpp-pro.md) - C++ performance expert
 - [**csharp-developer**](agents/csharp-developer.md) - .NET ecosystem specialist
@@ -63,17 +59,21 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**golang-pro**](agents/golang-pro.md) - Go concurrency specialist
 - [**java-architect**](agents/java-architect.md) - Enterprise Java expert
 - [**javascript-pro**](agents/javascript-pro.md) - JavaScript development expert
-- [**powershell-5.1-expert**](agents/powershell-5.1-expert.md) - Windows PowerShell 5.1 and full .NET Framework automation specialist
-- [**powershell-7-expert**](agents/powershell-7-expert.md) - Cross-platform PowerShell 7+ automation and modern .NET specialist
 - [**kotlin-specialist**](agents/kotlin-specialist.md) - Modern JVM language expert
 - [**laravel-specialist**](agents/laravel-specialist.md) - Laravel 10+ PHP framework expert
 - [**nextjs-developer**](agents/nextjs-developer.md) - Next.js 14+ full-stack specialist
 - [**php-pro**](agents/php-pro.md) - PHP web development expert
+- [**powershell-5.1-expert**](agents/powershell-5.1-expert.md) - Windows PowerShell 5.1 and full .NET Framework automation specialist
+- [**powershell-7-expert**](agents/powershell-7-expert.md) - Cross-platform PowerShell 7+ automation and modern .NET specialist
 - [**python-pro**](agents/python-pro.md) - Python ecosystem master
 - [**rails-expert**](agents/rails-expert.md) - Rails 8.1 rapid development expert
 - [**react-specialist**](agents/react-specialist.md) - React 18+ modern patterns expert
 - [**rust-engineer**](agents/rust-engineer.md) - Systems programming expert
 - [**spring-boot-engineer**](agents/spring-boot-engineer.md) - Spring Boot 3+ microservices expert
+- [**sql-pro**](agents/sql-pro.md) - Database query expert
+- [**swift-expert**](agents/swift-expert.md) - iOS and macOS specialist
+- [**typescript-pro**](agents/typescript-pro.md) - TypeScript specialist
+- [**vue-expert**](agents/vue-expert.md) - Vue 3 Composition API expert
 
 ### Infrastructure & DevOps
 - [**azure-infra-engineer**](agents/azure-infra-engineer.md) - Azure infrastructure and Az PowerShell automation expert
@@ -131,8 +131,8 @@ All agents are located in the [**agents/**](agents/) directory.
 - [**git-workflow-manager**](agents/git-workflow-manager.md) - Git workflow and branching expert
 - [**legacy-modernizer**](agents/legacy-modernizer.md) - Legacy code modernization specialist
 - [**mcp-developer**](agents/mcp-developer.md) - Model Context Protocol specialist
-- [**powershell-ui-architect**](agents/powershell-ui-architect.md) - PowerShell UI/UX specialist
 - [**powershell-module-architect**](agents/powershell-module-architect.md) - PowerShell module architecture specialist
+- [**powershell-ui-architect**](agents/powershell-ui-architect.md) - PowerShell UI/UX specialist
 - [**refactoring-specialist**](agents/refactoring-specialist.md) - Code refactoring expert
 - [**slack-expert**](agents/slack-expert.md) - Slack platform specialist
 - [**tooling-engineer**](agents/tooling-engineer.md) - Developer tooling specialist
